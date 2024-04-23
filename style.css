@@ -4,7 +4,10 @@ body {
 background-color:rgba(214, 24, 214, 0.366);
 background-image: url(https://store-images.s-microsoft.com/image/apps.8674.13721250509265961.9b4c8cd8-a870-4fd9-bb05-37b0120eb495.1f9557f6-1e88-4772-89df-84957fa23773?mode=scale&q=90&h=1080&w=1920);
 background-repeat: no-repeat;
-background-size:100%;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+
 }
 .titulo{
   margin-top:0;
