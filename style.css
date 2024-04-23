@@ -1,38 +1,17 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-background-color:rgba(149, 57, 149, 0.366);
-background-image:url(./Apu.jpg);
-background-repeat: no-repeat; 
-background-size:50%;
-background-position: center;
-background-position-y: -34px;
-
-
-
+background-color:rgba(214, 24, 214, 0.366);
+background-image: url(https://store-images.s-microsoft.com/image/apps.8674.13721250509265961.9b4c8cd8-a870-4fd9-bb05-37b0120eb495.1f9557f6-1e88-4772-89df-84957fa23773?mode=scale&q=90&h=1080&w=1920);
+background-repeat: no-repeat;
+background-size:100%;
 }
-/* .img{
-  display: block;
-  margin: auto;
-  width: 600px;
-  height: 600px;
-  position:relative;
-  border-radius: 100%;
-  border:14px dotted;
-  background-color: rgb(204, 121, 224);
-  padding:2px;
-  top:-380px;
-  z-index: -1; */
 .titulo{
-  margin-top: 180px;
+  margin-top:0;
 }
-
-
-
-
   h1 {
     text-align: center;
-    color: rgb(10, 12, 12);
+    color:(#fffffff3);
   
   }
      
@@ -42,7 +21,7 @@ background-position-y: -34px;
     padding: 10px;
     font-size: 18px;
     width: 250px;
-    border: 1px solid #ccc;
+    border: 3px solid #1fd8e6;
   }
      
   #guess-button {
